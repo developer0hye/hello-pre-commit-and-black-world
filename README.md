@@ -1,1 +1,1 @@
-# hello-githook-and-black-world
+# hello-pre-commit-and-black-world
